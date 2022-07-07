@@ -1,2 +1,2 @@
 # compiladores
-Analisadores léxico, sintático e semântico
+Implementação de analisadores léxico, sintático e uma calculadora de expressões aritméticas usando as ferramentas Flex e Bison.
