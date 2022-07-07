@@ -1,0 +1,13 @@
+COMANDOS TRABALHO 2
+
+flex lexico.l
+
+bison -d sintatico.y
+
+gcc lex.yy.c sintatico.tab.c sintatico.tab.h
+
+.\a.exe teste1.sml
+
+ou
+
+.\a.exe teste2.sml
