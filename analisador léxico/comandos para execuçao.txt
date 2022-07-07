@@ -1,0 +1,7 @@
+COMANDOS TRABALHO 1
+
+flex trabalho1.l
+
+gcc -o trabalho1 lex.yy.c
+
+.\trabalho1.exe teste1.s
